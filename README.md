@@ -1,0 +1,1 @@
+# GSAP-Scroll-Trigger-understanding-pin-properties
