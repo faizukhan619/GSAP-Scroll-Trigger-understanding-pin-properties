@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+#page1{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(201, 123, 22);
+   
+}
+
+
+#page2{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(87, 96, 172);
+   
+}
+
+#page2 img{
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+} 
+
+
+
+#page3{
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+   
+}
+
